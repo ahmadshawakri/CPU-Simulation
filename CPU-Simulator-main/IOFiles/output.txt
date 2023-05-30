@@ -1,0 +1,11 @@
+Task Id: T1 With Priority: Low Has Been Assigned to Processor: P2 & Completed it's Execution at Clock Cycle: 56
+Task Id: T2 With Priority: Low Has Been Assigned to Processor: P4 & Completed it's Execution at Clock Cycle: 43
+Task Id: T3 With Priority: High Has Been Assigned to Processor: P1 & Completed it's Execution at Clock Cycle: 9
+Task Id: T4 With Priority: High Has Been Assigned to Processor: P3 & Completed it's Execution at Clock Cycle: 25
+Task Id: T5 With Priority: Low Has Been Assigned to Processor: P3 & Completed it's Execution at Clock Cycle: 41
+Task Id: T6 With Priority: High Has Been Assigned to Processor: P1 & Completed it's Execution at Clock Cycle: 26
+Task Id: T7 With Priority: Low Has Been Assigned to Processor: P2 & Completed it's Execution at Clock Cycle: 39
+Task Id: T8 With Priority: High Has Been Assigned to Processor: P2 & Completed it's Execution at Clock Cycle: 30
+Task Id: T9 With Priority: Low Has Been Assigned to Processor: P4 & Completed it's Execution at Clock Cycle: 31
+Task Id: T10 With Priority: High Has Been Assigned to Processor: P1 & Completed it's Execution at Clock Cycle: 34
+Task Id: T11 With Priority: Low Has Been Assigned to Processor: P1 & Completed it's Execution at Clock Cycle: 44

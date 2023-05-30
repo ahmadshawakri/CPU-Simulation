@@ -1,0 +1,35 @@
+<SimulationConfig>
+  <NumOfProcessors>4</NumOfProcessors>
+  <Tasks>
+    <Task>
+    <Id>T1</Id>
+    <CreationTime>2</CreationTime>
+    <RequestedTime>2</RequestedTime>
+    <Priority>High</Priority>
+  </Task>
+  <Task>
+    <Id>T2</Id>
+    <CreationTime>5</CreationTime>
+    <RequestedTime>3</RequestedTime>
+    <Priority>Low</Priority>
+  </Task>
+  <Task>
+    <Id>T3</Id>
+    <CreationTime>4</CreationTime>
+    <RequestedTime>7</RequestedTime>
+    <Priority>Low</Priority>
+  </Task>
+  <Task>
+    <Id>T4</Id>
+    <CreationTime>1</CreationTime>
+    <RequestedTime>4</RequestedTime>
+    <Priority>High</Priority>
+  </Task>
+  <Task>
+    <Id>T5</Id>
+    <CreationTime>3</CreationTime>
+    <RequestedTime>3</RequestedTime>
+    <Priority>Low</Priority>
+  </Task>
+  </Tasks>
+</SimulationConfig>
